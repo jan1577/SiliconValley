@@ -11,6 +11,6 @@ The project is split into 3 parts.
 - Descriptive Analysis
 - Predictive Analysis
 
-The Data Cleaning is mostly based on information about the dataset that Metro Bike Share pusblished on their [website](https://bikeshare.metro.net/about/data/).
+The Data Cleaning is mostly based on information about the dataset that Metro Bike Share published on their [website](https://bikeshare.metro.net/about/data/).
 The descriptive analysis contains information on bike usage over different periods of time (day, week, year). In addition, different aspects such as fleet utilization and user types are analyzed.
 For prediction, KNN and a Decision-Tree model were used.
